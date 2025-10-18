@@ -3,7 +3,8 @@ Hi my name is Arshiya Amena
 
 ->completed my master's from UK
 
-->NOw i have a passion to becomes a devops engineer and i started my cource last month with train with shubham i hope i will reach my goal soon
+->Now i have a passion to becomes a devops engineer and i started my cource last month with train with shubham i hope i will reach my goal soon
+
+finally i push my .txt file on github from main branch
 
 
-Thannk you.
